@@ -1,0 +1,1 @@
+{"X_columns": ["ratings", "daily_ratings", "reviews", "daily_reviews", "mes", "dia", "appId_encoded", "category_encoded"], "y_column": "target_column"}
